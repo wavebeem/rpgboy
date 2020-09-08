@@ -1,0 +1,8 @@
+.vscode
+!.vscode/c_cpp_properties.json
+
+.DS_Store
+*.bak
+*~
+
+build
